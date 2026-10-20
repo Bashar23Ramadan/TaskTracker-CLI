@@ -1,0 +1,13 @@
+# .NET Build Folders
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio user specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local tasks data file (so your personal tasks are not uploaded)
+tasks.json
