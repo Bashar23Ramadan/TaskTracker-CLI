@@ -1,6 +1,6 @@
 # Task Tracker CLI 🚀
 
-أداة سطر أوامر (CLI) بسيطة وخفيفة لإدارة مهامك اليومية محلياً، مبنية بلغة **C#** وتعتمد على تخزين البيانات في ملف **JSON**. تم تطوير هذا المشروع كجزء من تحديات التطوير الخلفي في موقع **[roadmap.sh](https://roadmap.sh/)**.
+أداة سطر أوامر (CLI) بسيطة وخفيفة لإدارة مهامك اليومية محلياً، مبنية بلغة **C#** وتعتمد على تخزين البيانات في ملف **JSON**. تم تطوير هذا المشروع كجزء من تحديات التطوير الخلفي في موقع **[roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)**.
 
 ---
 
@@ -41,4 +41,4 @@
 
 1. قم بعمل Clone للمستودع:
    ```bash
-   git clone [https://github.com/your-username/TaskTracker-CLI.git](https://github.com/Bashar23Ramadan/TaskTracker-CLI.git)
+   git clone https://github.com/Bashar23Ramadan/TaskTracker-CLI
